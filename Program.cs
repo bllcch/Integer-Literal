@@ -35,10 +35,10 @@ namespace HelloWorld
                 binaryNumber == 56 &&
                 octalNumber == 56 &&
                 hexadecimalNumber == 56 &&
+                bigNumber == 56 &&
                 unsignedNumber == 56 &&
                 longValue == 56 &&
-                unsignedLong == 56 &&
-                bigNumber == 56)
+                unsignedLong == 56)
                 {
                     Console.WriteLine("All representatives are correct");
                 }
@@ -47,10 +47,10 @@ namespace HelloWorld
                     binaryNumber < 56 ||
                     octalNumber < 56 ||
                     hexadecimalNumber < 56 ||
+                    bigNumber < 56 ||
                     unsignedNumber < 56 ||
                     longValue < 56 ||
-                    unsignedLong < 56 ||
-                    bigNumber < 56)
+                    unsignedLong < 56)
                 {
                     Console.WriteLine("All representatives are correct");
                 }

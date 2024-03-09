@@ -1,3 +1,3 @@
 # Integer-Literal
 
-first assignment in c# (3rd quarter - g11)
+first assignment in C# (3rd quarter - g11)
